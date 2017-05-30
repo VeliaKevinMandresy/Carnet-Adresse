@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<carnet>
+  <personne type="ami">
+    <nom>Velia</nom>
+    <prenom>Kevin</prenom>
+    <date>2017/03/17</date>
+    <items>
+      <objet>TEst</objet>
+    </items>
+    <type_objet>test</type_objet>
+  </personne>
+  <personne type="ami">
+    <nom>,hdgdkhu</nom>
+    <prenom>gfhgkd</prenom>
+    <date>2017/03/17</date>
+    <items>
+      <objet>jhgffyflh</objet>
+    </items>
+    <type_objet>ghfgjlf</type_objet>
+  </personne>
+  <personne type="ami">
+    <nom>VElia</nom>
+    <prenom>Kevin</prenom>
+    <date>2017/03/17</date>
+    <items>
+      <objet>qsdsqd</objet>
+    </items>
+    <type_objet>sqdsdsqdsq</type_objet>
+  </personne>
+</carnet>
